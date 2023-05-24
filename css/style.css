@@ -73,7 +73,7 @@ nav ul li {
 .container {
   max-width: 1000px;
   margin: auto;
-  height: 92vh;
+  height: 58vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -107,6 +107,7 @@ nav ul li {
 
 footer {
   display: flex;
+  height: 78vh;
   flex-direction: column;
   justify-content: center;
   align-items: center;
